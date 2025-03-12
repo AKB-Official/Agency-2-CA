@@ -23,9 +23,5 @@ assignees: ""
 ### 📝 Expected Outcome
 <!-- What should be achieved once this setup task is completed? -->
 
-### ⏳ Estimated Time
-<!-- Rough estimate of how long this task will take (optional) -->
-- ⏳ Hours/Days
-
-### 🏗 Additional Context
+### ✍ Additional Context
 <!-- Any extra details, links, or references related to this setup task -->
