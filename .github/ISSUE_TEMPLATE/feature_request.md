@@ -2,18 +2,18 @@
 name: "🚀 Feature Request"
 about: "Propose a new feature for the project"
 title: "[FEATURE] <Short Description>"
-labels: enhancement
+labels: feature
 assignees: ""
 ---
 
 ### 💡 Describe the Feature
-_What should be added or improved?_
+<!-- Provide a detailed description of the feature request -->
 
 ### 📝 Why Is This Needed?
-_Explain why this feature would be useful._
+<!-- Explain why this feature would be useful -->
 
 ### ✅ Possible Implementation
-_How do you think this can be implemented?_
+<!-- Suggest how this could be implemented -->
 
 ### 🔗 Additional Context
-_Add links, references, or screenshots if needed._
+<!-- Add any references, screenshots, or links if applicable -->

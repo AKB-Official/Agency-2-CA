@@ -7,23 +7,27 @@ assignees: ""
 ---
 
 ### 🐞 Bug Description
-_A clear and concise description of the problem._
+<!-- Briefly describe the bug in 1-2 sentences -->
+A clear and concise description of the problem.
 
 ### 🔍 Steps to Reproduce
+<!-- List step-by-step instructions to reproduce the issue -->
 1. Go to '...'
 2. Click on '...'
 3. See error
 
 ### 💡 Expected Behavior
-_What should happen instead?_
+<!-- Describe what should happen instead -->
+What should happen instead?
 
 ### 📷 Screenshots
-_If applicable, add screenshots._
+<!-- If applicable, attach screenshots or screen recordings -->
 
 ### 🛠 Environment
-- OS: [e.g., Windows, macOS, Linux]
-- Browser: [e.g., Chrome, Firefox]
-- Version: [e.g., v1.0.0]
+<!-- Provide relevant system info to help debug the issue -->
+- **OS:** [e.g., Windows, macOS, Linux]
+- **Browser:** [e.g., Chrome, Firefox]
+- **Version:** [e.g., v1.0.0]
 
 ### Additional Context
-_Add any other context here._
+<!-- Any additional details or logs related to the issue -->
